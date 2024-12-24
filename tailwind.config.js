@@ -26,6 +26,7 @@ export default {
       fontFamily: {
         heading: ['Playfair Display', 'serif'],
         body: ['Open Sans', 'sans-serif'],
+        teko: ['Teko', 'sans-serif'],
       },
     },
   },
