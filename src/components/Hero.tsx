@@ -3,7 +3,7 @@ import Lottie from 'lottie-react';
 import barberAnimation from '../assets/animations/arrow-down.json';
 const Hero = () => {
   return (
-    <section className='relative h-screen -top-32 flex items-center justify-center text-center px-5'>
+    <section className='relative h-screen flex items-center justify-center text-center px-5'>
       <div className='absolute inset-0 bg-dark bg-opacity-70'>
         <img
           src={banner}

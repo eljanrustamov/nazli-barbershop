@@ -29,7 +29,7 @@ const NavBar = () => {
 
   return (
     <nav
-      className={`bg-transparent sticky top-0 z-50 transition-all border-b border-transparent${
+      className={`bg-transparent fixed w-full top-0 z-50 transition-all border-b border-transparent${
         isScrolled
           ? 'shadow-lg border-b border-primary-dark backdrop-blur-sm'
           : ''
