@@ -1,0 +1,38 @@
+{
+    "services": [
+      {
+        "category": "Hair Services",
+        "items": [
+          { "name": "Hair Cut", "price": "70 zł","duration":"60 minutes" },
+          { "name": "Clipper Hair Cut", "price": "50 zł","duration":"60 minutes" },
+          { "name": "Kids' Hair Cut (1-10 years old)", "price": "55 zł","duration":"60 minutes" },
+          { "name": "Father + Son", "price": "120 zł","duration":"60 minutes" },
+          { "name": "Hair Coloring", "price": "160 zł","duration":"60 minutes" },
+          { "name": "Hair Styling", "price": "70 zł","duration":"60 minutes" },
+          { "name": "Permanent Wave", "price": "200 zł","duration":"60 minutes" }
+        ],
+        "img": "https://images.newrepublic.com/9bba0e56c589fb3e06191969202abb446327a86a.jpeg?auto=format&fit=crop&crop=faces&q=65&w=1000&h=undefined&ar=3%3A2&ixlib=react-9.0.2&w=1000"
+      },
+      {
+        "category": "Beard and Shaving Services",
+        "items": [
+          { "name": "Beard Trim", "price": "60 zł","duration":"60 minutes" },
+          { "name": "Head Shave + Straight Razor", "price": "70 zł","duration":"60 minutes" },
+          { "name": "Combo: Hair Cutting + Head Shaving + Razor", "price": "110 zł","duration":"60 minutes" },
+          { "name": "Beard Shaving + Razor", "price": "70 zł","duration":"60 minutes" },
+          { "name": "Beard Coloring", "price": "70 zł","duration":"60 minutes" }
+        ],
+        "img": "https://cdn.prod.website-files.com/5cb569e54ca2fddd5451cbb2/5f8e7707ad6d75eda371136b_Cannington-120.jpg"
+      },
+      {
+        "category": "Extra Services",
+        "items": [
+          { "name": "Nose Wax", "price": "20 zł","duration":"60 minutes" },
+          { "name": "Ear Wax", "price": "20 zł","duration":"60 minutes" },
+          { "name": "Eyebrow Wax", "price": "20 zł","duration":"60 minutes" }
+        ],
+        "img": "https://portal.tedsgroomingroom.com//uploads/services/12/121714552074.jpg"
+      }
+    ]
+  }
+  
